@@ -1,6 +1,6 @@
 # FEMedina.com
 I am a Blockchain Securities Developer in the making.
-### Hi there, I'm EddieMedina- aka [FEMedina][website] 👋
+### Hi there, I'm EddieMedina- aka [Iam.FEMedina][website] 👋
 [![Website](https://img.shields.io/website?label=FEMedina.me&style=for-the-badge&url=https%3A%2F%2FEMedina.me)](https://FEMedina.me)
 ## I'm a Blockchain enthusiast and developer in the making!!
 - 🌱 life long student of life in general, and a Blockchain securities enthusiats
@@ -28,7 +28,7 @@ I am a Blockchain Securities Developer in the making.
 
 -----------
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FEMedina&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EddieMedina&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
 -----------
 
