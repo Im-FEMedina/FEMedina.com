@@ -1,4 +1,4 @@
-# FEMedina.com
+# FE Medina (Eddie)
 I am a Blockchain Securities Developer in the making.
 ### Hi there, I'm EddieMedina- aka [Iam.FEMedina][website] 👋
 
