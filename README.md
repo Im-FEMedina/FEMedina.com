@@ -8,7 +8,7 @@ I am a Blockchain Securities Developer in the making.
 - 🌱 life long student of life in general, and a Blockchain securities enthusiats
 - 👯 Looking forward to learning | collaborating |  building | executing | achieving | reflecting in order to rinse & repeat
 - 🥅 2023 Goals: Asborb as much as I can on everything that is the Blockchain space
-- ⚡ Fun fact: I play the bagpipes.  Play Lacrosse for an old guys league.
+- ⚡ Fun fact: I play the bagpipes.  Play Lacrosse for an old guys league and use to fly drones for the Fire Department.
 
 
 
