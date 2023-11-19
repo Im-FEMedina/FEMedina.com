@@ -3,11 +3,11 @@ I am a Blockchain Securities Developer in the making.
 ### Hi there, I'm EddieMedina- aka [FEMedina][website] 👋
 [![Website](https://img.shields.io/website?label=kpwoods.me&style=for-the-badge&url=https%3A%2F%2Fkpwoods.me)](https://kpwoods.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_pachhai?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkpachhai&screen_name=kpachhai)
-## I'm a Blockchain Enthusiast and developer in the making!!
-- 🌱 life long student of life in general, Blockchain securities enthusiats
-- 👯 I’m looking to learn | collaborate |  build | execute | achieve | rinse & repeat
+## I'm a Blockchain enthusiast and developer in the making!!
+- 🌱 life long student of life in general, and a Blockchain securities enthusiats
+- 👯 I’m looking to learn from others | collaborate |  build | execute | achieve | learn from my mistakes | reflect | rinse & repeat
 - 🥅 2023 Goals: Asborb as much as I can in the Blockchain space
-- ⚡ Fun fact: I play the Bagpipes.  Play Lacrosse for an old Guys league.
+- ⚡ Fun fact: I play the bagpipes.  Play Lacrosse for an old guys league.
 
 
 -----------
