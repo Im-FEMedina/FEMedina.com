@@ -1,10 +1,12 @@
 # FEMedina.com
 I am a Blockchain Securities Developer in the making.
 ### Hi there, I'm EddieMedina- aka [Iam.FEMedina][website] 👋
+
 [![Website](https://img.shields.io/website?label=FEMedina.me&style=for-the-badge&url=https%3A%2F%2FEMedina.me)](https://FEMedina.me)
 ## I'm a Blockchain enthusiast and developer in the making!!
+
 - 🌱 life long student of life in general, and a Blockchain securities enthusiats
-- 👯 Looking forward to learning | collaborating |  building | executing | achieving | reflecting in order rinse & repeat
+- 👯 Looking forward to learning | collaborating |  building | executing | achieving | reflecting in order to rinse & repeat
 - 🥅 2023 Goals: Asborb as much as I can on everything that is the Blockchain space
 - ⚡ Fun fact: I play the bagpipes.  Play Lacrosse for an old guys league.
 
@@ -27,11 +29,11 @@ I am a Blockchain Securities Developer in the making.
 <br />
 
 -----------
-
+## stats info
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Medina&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
 -----------
-
+## connect with me
 
 [website]: https://FEMedina.me
 [youtube]:www.youtube.com/@eddiemedina7399
