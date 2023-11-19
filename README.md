@@ -28,9 +28,6 @@ I am a Blockchain Securities Developer in the making.
 
 -----------
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FEMedina&show_icons=true&hide_border=true" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=FEMedina&show_icons=true&hide_border=true" />
-
 [website]: https://FEMedina.me
 [youtube]:www.youtube.com/@eddiemedina7399
 [youtube]: https://www.youtube.com/@dronepilotx8092
