@@ -4,8 +4,8 @@ I am a Blockchain Securities Developer in the making.
 [![Website](https://img.shields.io/website?label=FEMedina.me&style=for-the-badge&url=https%3A%2F%2FEMedina.me)](https://FEMedina.me)
 ## I'm a Blockchain enthusiast and developer in the making!!
 - 🌱 life long student of life in general, and a Blockchain securities enthusiats
-- 👯 I’m looking to learn from others | collaborate |  build | execute | achieve | learn from my mistakes | reflect | rinse & repeat
-- 🥅 2023 Goals: Asborb as much as I can in the Blockchain space
+- 👯 Looking forward to learning | collaborating |  building | executing | achieving | reflecting in order rinse & repeat
+- 🥅 2023 Goals: Asborb as much as I can on everything that is the Blockchain space
 - ⚡ Fun fact: I play the bagpipes.  Play Lacrosse for an old guys league.
 
 
