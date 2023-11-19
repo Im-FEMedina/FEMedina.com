@@ -42,7 +42,7 @@ I am a Blockchain Securities Developer in the making.
 
 
 [website]: https://FEMedina.me
-[youtube]:www.youtube.com/@eddiemedina7399
+[youtube]: https://www.youtube.com/@eddiemedina7399
 [youtube]: https://www.youtube.com/@dronepilotx8092
 [instagram]: https://instagram.com/iam.femedina
 [linkedin]: https://linkedin.com/in/fe-medina-1bb337115/
