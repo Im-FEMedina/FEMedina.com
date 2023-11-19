@@ -28,7 +28,7 @@ I am a Blockchain Securities Developer in the making.
 
 -----------
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EddieMedina&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Medina&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
 -----------
 
