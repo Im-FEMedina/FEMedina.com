@@ -1,14 +1,14 @@
 # FE Medina (Eddie)
 I am a Blockchain Securities Developer in the making.
-### Hi there, I'm EddieMedina- aka [Iam.FEMedina][website] 👋
+### Greetings, I'm EddieMedina- aka [Iam.FEMedina][website] 👋
 
 [![Website](https://img.shields.io/website?label=FEMedina.me&style=for-the-badge&url=https%3A%2F%2FEMedina.me)](https://FEMedina.me)
 ## I'm a Blockchain enthusiast and developer in the making!!
 
-- 🌱 life long student of life in general, and a Blockchain securities enthusiats
-- 👯 Looking forward to learning | collaborating |  building | executing | achieving | reflecting in order to rinse & repeat
+- 🌱 life long student of life, and a Blockchain securities enthusiats
+- 👯 Looking forward to learning | collaborating |  building | executing | achieving | and reflecting in order to rinse & repeat the process
 - 🥅 2023 Goals: Asborb as much as I can on everything that is the Blockchain space
-- ⚡ Fun fact: I play the bagpipes.  Play Lacrosse for an old guys league and use to fly drones for the Fire Department.
+- ⚡ Fun fact: I play the bagpipes and lacrosse for an old guys league. Use to fly drones for the Fire Department.
 
 
 
